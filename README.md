@@ -104,11 +104,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahWali007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1a2d4a" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdullahWali007&theme=tokyonight&no-frame=true&margin-w=8&column=7" width="95%"/>
+<img src="https://ghchart.rshah.org/58A6FF/AbdullahWali007" width="95%" alt="Contribution Graph" />
 
 </div>
 
